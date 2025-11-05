@@ -67,7 +67,7 @@ This will start:
 
 ### 5. Create Database Table
 
-The `schema.sql` file will automatically create the table on startup, or run manually:
+Run the SQL in `schema.sql`:
 
 ```sql
 CREATE TABLE IF NOT EXISTS repo (
